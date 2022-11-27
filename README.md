@@ -4,3 +4,5 @@ The JavaScript programming language is text-put together and can be utilized wit
 -It is the most popular and extensively used client-side scripting language
 
 -JavaScript is a scripting language that manipulates the content returned from a web server to add interactivity and dynamic effects to online pages.
+
+##vsriables
